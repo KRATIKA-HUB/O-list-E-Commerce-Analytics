@@ -96,6 +96,9 @@ Olist_Ecommerce_Analytics/
 
 **.** Highest sales months: November and December — indicating  strong festive season demand.
 
+<img width="1193" height="523" alt="Screenshot 2025-11-03 131402" src="https://github.com/user-attachments/assets/a7dcb1e5-d8e9-49e0-a7b6-0a57663bfead" />
+
+
 ### Order Delivery Insights :
 
 **.** 65% orders delivered on time, while 35% faced delays due to logistics or regional issues.
@@ -104,6 +107,9 @@ Olist_Ecommerce_Analytics/
 
 **.** Late deliveries highly correlated with long-distance shipments.
 
+<img width="1689" height="803" alt="Screenshot 2025-11-03 174134" src="https://github.com/user-attachments/assets/33be747e-37e5-4cf6-9221-0536dc5dc7ff" />
+
+
 ### Product Categories :
 
 **.** Top categories: Health & Beauty, Watches, and Computers.
@@ -111,6 +117,9 @@ Olist_Ecommerce_Analytics/
 **.** Electronics and Furniture contribute the highest revenue share.
 
 **.** Niche segments (e.g., Automotive Accessories, Fashion) show potential for growth.
+
+<img width="1697" height="899" alt="Screenshot 2025-11-03 173947" src="https://github.com/user-attachments/assets/a6270509-6b88-4c5d-bfcb-c1758d831a37" />
+
 
 ### Sales Prediction Insights :
 
