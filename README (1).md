@@ -205,6 +205,9 @@ The Olist E-commerce Analytics Project consists of three interactive Power BI da
 
 **.** Tracks average delivery time by city/state, highlighting regional performance variations.
 
+<img width="1327" height="755" alt="Screenshot 2025-11-03 173244" src="https://github.com/user-attachments/assets/fdd46170-22d1-47aa-ae67-a48bcb350b54" />
+
+
 #### 2️⃣ Customer & Seller Insights Dashboard
 
 **.** Highlights total customers (99K), total revenue (15.84M), and average review rating (4 stars).
@@ -212,6 +215,9 @@ The Olist E-commerce Analytics Project consists of three interactive Power BI da
 **.** Analyzes customer segmentation by city and top-spending customers.
 
 **.** Visualizes customer distribution on a map, aiding geographic targeting and marketing strategy.
+
+<img width="1335" height="749" alt="Screenshot 2025-11-03 173258" src="https://github.com/user-attachments/assets/287ed3f8-5dbe-4bba-955a-eb013dda430e" />
+
 
 #### 3️⃣ Order & Delivery Insights Dashboard
 
@@ -222,6 +228,9 @@ The Olist E-commerce Analytics Project consists of three interactive Power BI da
 **.** Displays seller concentration across states and average freight values.
 
 **.** Highlights top-performing categories by revenue, such as beleza_saude and relogios_presentes.
+
+<img width="1074" height="617" alt="Screenshot 2025-11-03 173330" src="https://github.com/user-attachments/assets/a813fe97-3d88-4745-ad48-10e07c1963e7" />
+
 
 ## Final Recommendations :
 
