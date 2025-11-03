@@ -72,3 +72,6 @@ Build predictive models to forecast future order volumes.
 
 Use insights from daily trends to optimize marketing spend and improve customer experience.
 
+<img width="1193" height="523" alt="Screenshot 2025-11-03 131402" src="https://github.com/user-attachments/assets/fdf255a5-af30-42b6-8850-4ffbcafea5ff" />
+<img width="201" height="179" alt="Screenshot 2025-11-03 131348" src="https://github.com/user-attachments/assets/e45f1bdc-aeea-4efb-b285-9bff91c2cdf2" />
+
