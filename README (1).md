@@ -3,6 +3,10 @@
 
 Analyzes Olist’s e-commerce data to explore customer patterns, sales performance, payment behavior, and delivery efficiency through Python-based analytics and visual storytelling.
 
+# Table Content :
+1. Overview
+
+
 ## Overview:
 This project provides a comprehensive analysis of e-commerce performance across orders, deliveries, product categories, customer behavior, and seller efficiency. Using SQL, Python, and visualization tools, it uncovers key insights on sales patterns, delivery performance, customer segmentation, product affinity, and lead conversion—helping identify growth opportunities, improve logistics, and enhance overall business strategy.
 
