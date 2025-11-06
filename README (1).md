@@ -13,6 +13,8 @@ Analyzes Olist’s e-commerce data to explore customer patterns, sales performan
 7. [EDA](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#-exploratory-data-analysis-eda-insights)
 8. [Key Findings](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#-key-findings-)
 9. [About the Dashboard](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#-about-the-dashboard-)
+10. [Final Recommendations](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#final-recommendations-)
+11. [About ]
 
 
 
