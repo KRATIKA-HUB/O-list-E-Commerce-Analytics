@@ -6,7 +6,7 @@ Analyzes Olist’s e-commerce data to explore customer patterns, sales performan
 # Table Content :
 1. [Overview](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#overview)
 2. https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#business-problem-statement-
-3. 
+3. https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#dataset-overview-
 
 
 
