@@ -4,7 +4,8 @@
 Analyzes Olist’s e-commerce data to explore customer patterns, sales performance, payment behavior, and delivery efficiency through Python-based analytics and visual storytelling.
 
 # Table Content :
-1. Overview https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#overview
+1. [Overview](https://github.com/KRATIKA-HUB/O-list-E-Commerce-Analytics/blob/main/README%20(1).md#overview)
+  
 
 
 ## Overview:
