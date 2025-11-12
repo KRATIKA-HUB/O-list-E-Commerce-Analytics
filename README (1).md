@@ -303,6 +303,6 @@ Kratika Gupta
 
 Aspiring Data Analytics
 
-*Email:* kratikagupta0517@gmail.com
+[Email](kratikagupta0517@gmail.com)
 
-*LinkedIn:*   www.linkedin.com/in/kratika-gupta-88309828a
+[LinkedIn]( www.linkedin.com/in/kratika-gupta-88309828a)
