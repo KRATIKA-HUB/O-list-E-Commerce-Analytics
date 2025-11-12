@@ -148,6 +148,9 @@ Olist_Ecommerce_Analytics/
 
 **.** Key sales drivers: product category, delivery time, and customer region.
 
+<img width="1545" height="878" alt="Screenshot 2025-11-03 174034" src="https://github.com/user-attachments/assets/9da55d9b-7cc0-4766-adc6-520919a5fe87" />
+
+
 ### Customer Segmentation:
 
 **.** Customers segmented into Loyal, Occasional, and New Buyers using RFM analysis.
@@ -167,6 +170,9 @@ Olist_Ecommerce_Analytics/
 **.** High-value customers mostly purchase electronics, home goods, and beauty products.
 
 **.** Retention-focused offers could increase CLV by 15–20%.
+
+<img width="681" height="414" alt="Screenshot 2025-11-03 151258" src="https://github.com/user-attachments/assets/a04d503f-8a0f-4576-85c8-26a715ce805e" />
+
 
 ### Product Affinity :
 
