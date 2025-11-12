@@ -156,6 +156,9 @@ Olist_Ecommerce_Analytics/
 
 **.** New customers show higher return and delay complaint rates.
 
+<img width="1041" height="666" alt="Screenshot 2025-11-12 211044" src="https://github.com/user-attachments/assets/d8b8415a-fdae-453f-8658-e184e368da9e" />
+
+
 ### Customer Lifetime Value (CLV) :
 
 
@@ -172,6 +175,9 @@ Olist_Ecommerce_Analytics/
 
 **.** Cross-selling these products could raise overall basket value.
 
+<img width="1034" height="649" alt="Screenshot 2025-11-12 211115" src="https://github.com/user-attachments/assets/dad62a2d-82a5-4ee3-bdea-fa4eb2f7c25d" />
+
+
 ### Sellers Performance :
 
 
@@ -180,6 +186,9 @@ Olist_Ecommerce_Analytics/
 **.** Sellers with consistent delivery speed and good ratings retain more repeat customers.
 
 **.** Some sellers show high cancellation or delayed shipment rates.
+
+<img width="996" height="701" alt="image" src="https://github.com/user-attachments/assets/e00076bf-4d04-4138-bc35-5e6c5defc70c" />
+
 
 ### Lead Conversion :
 
@@ -190,6 +199,9 @@ Olist_Ecommerce_Analytics/
 
 **.** High-value leads often come from repeat buyers and referral-based traffic.
 
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/1945dff1-089d-47b7-b48d-b7a2fd535562" />
+
+
 ### Order Reviews :
 
 
@@ -198,6 +210,9 @@ Olist_Ecommerce_Analytics/
 **.** Negative reviews mainly relate to delays or damaged products.
 
 **.** Improving packaging and logistics can enhance satisfaction metrics.
+
+<img width="1182" height="601" alt="image" src="https://github.com/user-attachments/assets/93b42809-1b96-4668-944b-5af6c8d76d2f" />
+
 
 ### 📈 Key Findings :
 
